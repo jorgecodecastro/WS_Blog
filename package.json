@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/jorgecodecastro/WS_Blog/issues"
   },
-  "homepage": "https://github.com/jorgecodecastro/WS_Blog#readme"
+  "homepage": "https://github.com/jorgecodecastro/WS_Blog#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12"
+  }
 }
