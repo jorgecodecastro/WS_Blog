@@ -1,0 +1,19 @@
+{
+  "name": "ws_blog",
+  "version": "1.0.0",
+  "description": "Web Scraping do blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgecodecastro/WS_Blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgecodecastro/WS_Blog/issues"
+  },
+  "homepage": "https://github.com/jorgecodecastro/WS_Blog#readme"
+}
